@@ -1,0 +1,12 @@
+{
+  "name": "facturas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch ./jsons/db.json --port"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
